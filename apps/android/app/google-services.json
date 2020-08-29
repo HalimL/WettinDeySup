@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251637078998",
+    "firebase_url": "https://wettindeysup.firebaseio.com",
+    "project_id": "wettindeysup",
+    "storage_bucket": "wettindeysup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251637078998:android:f26b246a065ace1225e277",
+        "android_client_info": {
+          "package_name": "com.example.wettindeysup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251637078998-1fqt6o2vusq8enjtpsd373l8slpmqi1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wettindeysup",
+            "certificate_hash": "6041333ae1eb17cd6d85233207183a53a5f857fe"
+          }
+        },
+        {
+          "client_id": "251637078998-s7l5kubq81jhjpvn79jbckc5909ekk35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPxH_syZ8QISAnTFGkwzQad2cKhSBoeXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251637078998-s7l5kubq81jhjpvn79jbckc5909ekk35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
