@@ -1,0 +1,28 @@
+WettinDeySup - UseCase V0.01
+
+Registration:
+As a user I want...
+        to be able to register my account either using google, facebook or using my email.
+        sign in after the registration process.
+        skip the registration and sign in process if i've been authenticated before.
+
+
+UserAvailability:
+As a user I want...
+        to see which of my friends are online.
+        when my friends where last online.
+
+Messaging:
+As a user I want...
+        to send messages to my added friends.
+        to  see when my friend is typing.
+        to see a list of all the friends i have messaged.
+        clear all the messages i've sent to my friend.
+
+General:
+As a user I want...
+        to add new friends using their usernames.
+        to remove friends from my friends list.
+        to change my profile picture.
+        to change my status.
+
